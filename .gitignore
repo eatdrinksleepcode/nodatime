@@ -7,6 +7,7 @@
 *.suo
 *.user
 *.sln.cache
+.idea
 .vs
 .vscode
 
